@@ -1,0 +1,31 @@
+{
+    "appname": "Classroom Mount Mode",
+    "packages": [
+        {
+            "ClassroomMountMode": ""
+        }
+    ],
+    "lastUpdate": "2019-04-04",
+    "flavour": "tots",
+    "description": "",
+    "lliurexversion": "0.15",
+    "upstreamversion": "0.15",
+    "upstreamUrl": "",
+    "translateUrl": "",
+    "translatedVersions": [
+        [
+            ""
+        ]
+    ],
+    "svnPath": "",
+    "transType": "properties",
+    "translationMethod": "tradInApp",
+    "installPath": "",
+    "fileList": [
+        ""
+    ],
+    "recipe": "",
+    "notes": "Pos passats pel trello.",
+    "metapackage": "",
+    "watch_me": "false"
+}

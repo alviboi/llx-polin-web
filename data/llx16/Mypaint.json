@@ -1,0 +1,31 @@
+{
+    "appname": "Mypaint",
+    "packages": [
+        {
+            "libmypaint\nmypaint": ""
+        }
+    ],
+    "lastUpdate": "2019-11-11",
+    "flavour": "Tots",
+    "description": "Edici\u00f3 d'imatges",
+    "lliurexversion": "1.2.0-4.1",
+    "upstreamversion": "1.4",
+    "upstreamUrl": "http:\/\/mypaint.org",
+    "translateUrl": "https:\/\/hosted.weblate.org\/projects\/mypaint\/",
+    "translatedVersions": [
+        {
+            "1.4": ""
+        }
+    ],
+    "svnPath": "",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "",
+    "fileList": [
+        ""
+    ],
+    "recipe": "",
+    "notes": "S'ha de tenir en compte que s\u00f3n dos arxius. El de mypaint y el libmypaint",
+    "metapackage": "mypaint",
+    "watch_me": "false"
+}

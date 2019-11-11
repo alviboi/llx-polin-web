@@ -1,0 +1,34 @@
+{
+    "appname": "Audacity",
+    "packages": [
+        {
+            "audacity": "2.1.2-1"
+        },
+        {
+            " audacity-data": "2.1.2-1"
+        }
+    ],
+    "lastUpdate": "2019-02-14",
+    "flavour": "Common",
+    "description": "Editor d'\u00e0udio",
+    "lliurexversion": "2.2.1-1",
+    "upstreamversion": "2.3.3",
+    "upstreamUrl": "http:\/\/www.audacityteam.org\/",
+    "translateUrl": "https:\/\/lists.sourceforge.net\/lists\/listinfo\/audacity-translation",
+    "translatedVersions": [
+        {
+            "2.3.3": "06-10-2019\n2.1.2-1"
+        }
+    ],
+    "svnPath": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/Multimedia\/Musica\/audacity",
+    "transType": "po",
+    "translationMethod": "applicationEmbed",
+    "installPath": "\/usr\/share\/locale\/ca_ES@valencia\/LC_MESSAGES\/audacity.mo",
+    "fileList": [
+        "audacity.po"
+    ],
+    "recipe": "En principi, les traduccions funcionene enviant un correu amb la traducci\u00f3 comprimida en zip a la llista de distribuci\u00f3 de cooreu dels traductors (audacity-translation@lists.sourceforge.net. ).\n\nDe moment s'inclou al language-pack",
+    "notes": "En l'\u00faltim enviament s'ha colocat ca@valencia ja que \u00e9s el que utilitza plasma.",
+    "metapackage": "audacity",
+    "watch_me": "false"
+}

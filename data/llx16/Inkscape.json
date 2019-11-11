@@ -1,0 +1,31 @@
+{
+    "appname": "Inkscape",
+    "packages": [
+        [
+            ""
+        ]
+    ],
+    "lastUpdate": "2019-11-11",
+    "flavour": "-",
+    "description": "Programa de sisseny vectorial",
+    "lliurexversion": "0.92.3-1",
+    "upstreamversion": "1.0",
+    "upstreamUrl": "https:\/\/gitlab.com\/inkscape\/inkscape\/tree\/master\/po",
+    "translateUrl": "https:\/\/gitlab.com\/inkscape\/inkscape\/tree\/master\/po",
+    "translatedVersions": [
+        {
+            "1.0": ""
+        }
+    ],
+    "svnPath": "",
+    "transType": "properties",
+    "translationMethod": "tradInApp",
+    "installPath": "",
+    "fileList": [
+        ""
+    ],
+    "recipe": "Hi ha que fer un merge request a la https:\/\/gitlab.com\/inkscape\/inkscape\/tree\/master\/po",
+    "notes": "Has d'obrir-te un compte de gitlab",
+    "metapackage": "inkscape",
+    "watch_me": "false"
+}

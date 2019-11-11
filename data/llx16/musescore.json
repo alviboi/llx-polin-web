@@ -1,0 +1,31 @@
+{
+    "appname": "Musescore",
+    "packages": [
+        {
+            "musescore3": ""
+        }
+    ],
+    "lastUpdate": "2019-05-03",
+    "flavour": "tots",
+    "description": "Programa de notaci\u00f3 musical",
+    "lliurexversion": "3.2.3+dfsg1-1~obs+1",
+    "upstreamversion": "3.0.3",
+    "upstreamUrl": "https:\/\/musescore.org\/es",
+    "translateUrl": "www.transifex.com\/musescore\/musescore\/translate\/",
+    "translatedVersions": [
+        {
+            "3.0.3": ""
+        }
+    ],
+    "svnPath": "",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "",
+    "fileList": [
+        ""
+    ],
+    "recipe": "",
+    "notes": "",
+    "metapackage": "",
+    "watch_me": "false"
+}

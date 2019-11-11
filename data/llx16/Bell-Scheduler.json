@@ -1,0 +1,31 @@
+{
+    "appname": "Bell-Scheduler",
+    "packages": [
+        [
+            ""
+        ]
+    ],
+    "lastUpdate": "2018-09-06",
+    "flavour": "tots",
+    "description": "M\u00fasica de canvi de hora",
+    "lliurexversion": "0.3.24",
+    "upstreamversion": "0.3.24",
+    "upstreamUrl": "",
+    "translateUrl": "http:\/\/svn.lliurex.net\/xenial\/bell-scheduler\/trunk\/fuentes\/translations\/",
+    "translatedVersions": [
+        [
+            ""
+        ]
+    ],
+    "svnPath": "",
+    "transType": "properties",
+    "translationMethod": "tradInApp",
+    "installPath": "",
+    "fileList": [
+        ""
+    ],
+    "recipe": "",
+    "notes": "",
+    "metapackage": "",
+    "watch_me": "false"
+}

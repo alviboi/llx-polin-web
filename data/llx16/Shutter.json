@@ -1,0 +1,31 @@
+{
+    "appname": "Shutter",
+    "packages": [
+        {
+            "shutter": ""
+        }
+    ],
+    "lastUpdate": "2019-01-29",
+    "flavour": "tots",
+    "description": "Capturador de pantalles",
+    "lliurexversion": "0.94-1",
+    "upstreamversion": "0.94-1",
+    "upstreamUrl": "",
+    "translateUrl": "https:\/\/translations.launchpad.net\/shutter\/trunk\/+lang\/ca@valencia",
+    "translatedVersions": [
+        {
+            "0.94-1": ""
+        }
+    ],
+    "svnPath": "",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "",
+    "fileList": [
+        ""
+    ],
+    "recipe": "Hi ha que tenir en compte que hi ha que traduir diversos paquets al launchpad.",
+    "notes": "",
+    "metapackage": "",
+    "watch_me": "false"
+}

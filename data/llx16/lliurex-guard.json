@@ -1,0 +1,31 @@
+{
+    "appname": "lliurex-guard",
+    "packages": [
+        {
+            "lliurex-guard": ""
+        }
+    ],
+    "lastUpdate": "2019-07-26",
+    "flavour": "tots",
+    "description": "",
+    "lliurexversion": "4.6.3",
+    "upstreamversion": "4.6.3",
+    "upstreamUrl": "",
+    "translateUrl": "",
+    "translatedVersions": [
+        {
+            "4.6.3": ""
+        }
+    ],
+    "svnPath": "",
+    "transType": "properties",
+    "translationMethod": "tradInApp",
+    "installPath": "",
+    "fileList": [
+        ""
+    ],
+    "recipe": "",
+    "notes": "Es va pasar la traducci\u00f3 per trello",
+    "metapackage": "",
+    "watch_me": "false"
+}

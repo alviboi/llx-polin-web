@@ -1,0 +1,31 @@
+{
+    "appname": "Appinfo",
+    "packages": [
+        [
+            ""
+        ]
+    ],
+    "lastUpdate": "2018-09-17",
+    "flavour": "tots",
+    "description": "",
+    "lliurexversion": "0.3.1",
+    "upstreamversion": "0.3.1",
+    "upstreamUrl": "",
+    "translateUrl": "https:\/\/svn.lliurex.net\/lliurex-pl\/trunk\/llx1606\/appinfo\/",
+    "translatedVersions": [
+        [
+            ""
+        ]
+    ],
+    "svnPath": "",
+    "transType": "properties",
+    "translationMethod": "tradInApp",
+    "installPath": "",
+    "fileList": [
+        ""
+    ],
+    "recipe": "",
+    "notes": "",
+    "metapackage": "appinfo",
+    "watch_me": "false"
+}

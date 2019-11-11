@@ -1,0 +1,31 @@
+{
+    "appname": "Lliurex-Easy-Sites",
+    "packages": [
+        [
+            ""
+        ]
+    ],
+    "lastUpdate": "2019-04-01",
+    "flavour": "tots",
+    "description": "Producci\u00f3 pr\u00f2pia",
+    "lliurexversion": " Lliurex-Easy-Sites",
+    "upstreamversion": " Lliurex-Easy-Sites",
+    "upstreamUrl": "",
+    "translateUrl": "",
+    "translatedVersions": [
+        [
+            ""
+        ]
+    ],
+    "svnPath": "",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "",
+    "fileList": [
+        ""
+    ],
+    "recipe": "",
+    "notes": "",
+    "metapackage": "",
+    "watch_me": "false"
+}

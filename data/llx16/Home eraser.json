@@ -1,0 +1,31 @@
+{
+    "appname": "Home Eraser",
+    "packages": [
+        [
+            ""
+        ]
+    ],
+    "lastUpdate": "2018-09-11",
+    "flavour": "",
+    "description": "Resetejar el perfil d'usuari",
+    "lliurexversion": "",
+    "upstreamversion": "",
+    "upstreamUrl": "",
+    "translateUrl": "",
+    "translatedVersions": [
+        [
+            ""
+        ]
+    ],
+    "svnPath": "",
+    "transType": "properties",
+    "translationMethod": "tradInApp",
+    "installPath": "",
+    "fileList": [
+        ""
+    ],
+    "recipe": "",
+    "notes": "Es substituieis per perfil reset",
+    "metapackage": "",
+    "watch_me": "false"
+}

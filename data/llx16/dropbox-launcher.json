@@ -1,0 +1,31 @@
+{
+    "appname": "dropbox-launcher",
+    "packages": [
+        [
+            ""
+        ]
+    ],
+    "lastUpdate": "2018-03-26",
+    "flavour": "tots",
+    "description": "",
+    "lliurexversion": "",
+    "upstreamversion": "",
+    "upstreamUrl": "",
+    "translateUrl": "",
+    "translatedVersions": [
+        [
+            ""
+        ]
+    ],
+    "svnPath": "http:\/\/svn.lliurex.net\/xenial\/dropbox-launcher\/trunk\/fuentes\/lliurex-po\/",
+    "transType": "po",
+    "translationMethod": "tradInApp",
+    "installPath": "",
+    "fileList": [
+        ""
+    ],
+    "recipe": "",
+    "notes": "",
+    "metapackage": "",
+    "watch_me": "false"
+}
